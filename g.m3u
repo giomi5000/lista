@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:8,Latin America Sport
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 #EXTINF:8,Claro Sports  HD
@@ -79,6 +80,7 @@ http://200.24.132.99:8000/play/a024
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a023
 #EXTINF:0,France 24
+#EXTGRP: Noticias
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a02c
 #EXTINF:0,CNN Espanol
@@ -93,6 +95,7 @@ http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0ps/index.m3u8
 #EXTINF:0,Cinecanal
+#EXTGRP: Cine
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a01f
 #EXTINF:0,Cinemax
@@ -140,6 +143,7 @@ http://177.234.198.43:8000/play/a01o/index.m3u8
 #EXTINF:8,CINEMA PLATINO
 http://177.234.198.43:8000/play/a01u/index.m3u8
 #EXTINF:0,AE Mundo
+#EXTGRP: Hogar
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a025
 #EXTINF:0,AXN
