@@ -33,25 +33,33 @@ http://200.24.132.99:8000/play/a020
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0rd/index.m3u8
 #EXTINF:8,Claro Sports  HD
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0on/index.m3u8
 #EXTINF:8,ESPN  +
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0py/index.m3u8
 #EXTINF:0,ESPN 2 HD
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0t6/index.m3u8
 #EXTINF:0,ESPN 3 HD
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0t5/index.m3u8
 #EXTINF:0,ESPN 4  HD
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://190.83.119.67:8000/play/a0ur/index.m3u8
 #EXTINF:8,ESPN 4
+#EXTGRP: Deportes
 http://177.234.198.43:8000/play/a00j/index.m3u8
 #EXTINF:0,12009 ESPN 3
+#EXTGRP: Deportes
 http://177.234.198.43:8000/play/a00h/index.m3u8
 #EXTINF:0,12010 ESPN 2
+#EXTGRP: Deportes
 http://177.234.198.43:8000/play/a00i/index.m3u8
 #EXTINF:0,ESPN Deportes HD
 #EXTVLCOPT:network-caching=1000
@@ -65,18 +73,23 @@ http://177.234.198.43:8000/play/a00b/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a022
 #EXTINF:0,ESPN 2
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a01v
 #EXTINF:0,ESPN 2 Latin
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a021
 #EXTINF:0,ESPN 3
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a02w
 #EXTINF:0,ESPN CO
+#EXTGRP: Deportes
 #EXTVLCOPT:network-caching=1000
 http://200.24.132.99:8000/play/a02m
 #EXTINF:8,FUTBOL EC
+#EXTGRP: Deportes
 http://177.234.198.43:8000/play/a00e/index.m3u8
 #EXTINF:8,FOX SPORT 2
 http://177.234.198.43:8000/play/a00f/index.m3u8
